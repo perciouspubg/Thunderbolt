@@ -1,0 +1,5 @@
+{
+  "name": "SC-76 Thunderbolt Ballistic Companion",
+  "description": "Precision ballistic solver for SC-76 Thunderbolt rifles and Leupold 1/4 MOA scopes, featuring Gemini AI integration.",
+  "requestFramePermissions": []
+}
